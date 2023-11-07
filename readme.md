@@ -1,7 +1,7 @@
 # Mars-Widget-VB6
 The Steampunk Mars Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Mars Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![Mars](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/ef628ebe-30a8-4806-b050-77d2ea5e8ea9)
+![mars](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/44e30cb2-2932-4148-a47f-cd8b96665b8a)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Mars. 
 Double-clicking on the planet will cause a personalised Windows application 
