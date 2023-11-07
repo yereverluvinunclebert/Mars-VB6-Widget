@@ -40,7 +40,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
  
- ![menu01](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/acd5509b-db15-40da-9e58-8565c936b7d1)
+![mars-help-750](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/3cfaede8-f675-459d-97a6-49073ad7361f)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -96,7 +96,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
- ![prefs-about](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/cc07cb2b-dbfe-4703-a5b0-7adcb480ac5d)
+![prefs-about](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/e90617d6-b9fd-45b8-bf1c-65d6375d87f8)
 
  CREDITS:
  
@@ -135,7 +135,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  without any additional Microsoft OCX components, just the basic controls that 
  ship with VB6.  
  
- ![vb6-logo](https://github.com/yereverluvinunclebert/-JustClock-VB6/assets/2788342/861f1ce1-7058-4d09-af94-daab9206ca86)
+
  
  * Uses the latest version of the RC6 Cairo framework from Olaf Schmidt.
  
