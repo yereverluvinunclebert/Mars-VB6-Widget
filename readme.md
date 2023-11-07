@@ -19,8 +19,6 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
  
  The Mars widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
- 
-![bathysphere](https://github.com/yereverluvinunclebert/Mars-Ywidget/assets/2788342/bfd2fb75-7e56-4b09-ad75-c11f24e8065d)
 
  This widget can be increased in size, animation speed can be changed, 
  opacity/transparency may be set as to the users discretion. The widget can 
@@ -32,7 +30,6 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  command of your choice. The widget takes command line-style commands for 
  windows. Mouse hover over the widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP 
  to Windows 11.
-
 
  The Mars VB6 widget is Beta-grade software, under development, not yet 
  ready to use on a production system - use at your own risk.
@@ -55,8 +52,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
 
- ![Mars-help-750](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/a1a78d66-6c1f-4783-ac78-3fd218389070)
-
+![vb6-logo](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/d17f9120-7c35-4dce-bc7f-d9394d8118d1)
  
  I do hope you enjoy using this utility and others. Your own software 
  enhancements and contributions will be gratefully received if you choose to 
