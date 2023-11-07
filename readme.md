@@ -39,8 +39,9 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
- 
-![mars-help-750](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/3cfaede8-f675-459d-97a6-49073ad7361f)
+
+![mars-help-750](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/629d7deb-2ac2-460b-8259-d7f06a3fa84e)
+
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
