@@ -395,7 +395,8 @@ Private Declare Function PathIsDirectory Lib "shlwapi" Alias "PathIsDirectoryA" 
 '------------------------------------------------------ ENDS
 
 Public softwarePlanet As String
-     
+Public thisPlanet As String
+
 '---------------------------------------------------------------------------------------
 ' Procedure : fFExists
 ' Author    : RobDog888 https://www.vbforums.com/member.php?17511-RobDog888
