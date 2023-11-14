@@ -55,7 +55,7 @@ StartDialog=Yes
 FinishDialog=Yes
 
 [SPLASH_WINDOW]
-Bitmap_Pathname=E:\vb6\Mars VB6\Resources\images\marsSplash.bmp
+Bitmap_Pathname=E:\vb6\Mars-VB6-Widget\Resources\images\marsSplash.bmp
 Bitmap_Duration=1
 
 [SETUP_WINDOW]
@@ -95,7 +95,7 @@ Show_ViewReadme_Checked=Yes
 Show_RunApplication_CheckBox=Yes
 Show_RunApplication_Checked=Yes
 Readme_Pathname=
-Application_Pathname=%AppDir%\earth.exe
+Application_Pathname=%AppDir%\Mars.exe
 
 [EXTERNAL_TOOLS]
 RunBeforeInstall=No
@@ -110,7 +110,7 @@ BeforeUninstall=,,,1,2,1,
 [CREATE_SETUP]
 OutputFolder=E:\vb6\Mars VB6 ver. 1.0.0
 SetupFilename=Setup.exe
-SetupIconPathname=E:\vb6\Mars VB6\Resources\images\32x32x16.ico
+SetupIconPathname=E:\vb6\Mars-VB6-Widget\Resources\images\32x32x16.ico
 CreateSelfExtractedSetup=Yes
 CreatePasswordProtectedSetup=No
 Password=
@@ -241,7 +241,7 @@ Folder=%AppDir%\Resources\sounds
 File=%AppDir%\Resources\sounds\lock.wav,.\Resources\sounds\lock.wav,17,0,128
 File=%AppDir%\Resources\sounds\mistake.wav,.\Resources\sounds\mistake.wav,17,0,128
 File=%AppDir%\Resources\sounds\till.wav,.\Resources\sounds\till.wav,17,0,128
-File=%AppDir%\Resources\sounds\ting.wav,.\Resources\sounds\ting.wav,17,0,32
+File=%AppDir%\Resources\sounds\ting.wav,.\Resources\sounds\ting.wav,17,0,128
 File=%AppDir%\Resources\sounds\winding.wav,.\Resources\sounds\winding.wav,17,0,128
 Folder=%AppDir%\Resources\txt
 File=%AppDir%\Resources\txt\about.txt,.\Resources\txt\about.txt,17,0,128
@@ -249,13 +249,13 @@ File=%AppDir%\Resources\txt\licence.txt,.\Resources\txt\licence.txt,17,0,128
 Folder=%AppDir%\help
 File=%AppDir%\help\about.png,.\help\about.png,17,0,128
 File=%AppDir%\help\help.chm,.\help\help.chm,17,0,128
-File=%AppDir%\help\Index.hhk,.\help\Index.hhk,17,0,32
+File=%AppDir%\help\Index.hhk,.\help\Index.hhk,17,0,128
 File=%AppDir%\help\Licence.jpg,.\help\Licence.jpg,17,0,128
 File=%AppDir%\help\mars-help-750.jpg,.\help\mars-help-750.jpg,17,0,128
 File=%AppDir%\help\mars-on-desktop.jpg,.\help\mars-on-desktop.jpg,17,0,128
 File=%AppDir%\help\mars.html,.\help\mars.html,17,0,128
 File=%AppDir%\help\mars.png,.\help\mars.png,17,0,128
-File=%AppDir%\help\menu.png,.\help\menu.png,17,0,32
+File=%AppDir%\help\menu.png,.\help\menu.png,17,0,128
 File=%AppDir%\help\menu01.png,.\help\menu01.png,17,0,128
 File=%AppDir%\help\menu02.png,.\help\menu02.png,17,0,128
 File=%AppDir%\help\prefs-about.png,.\help\prefs-about.png,17,0,128
@@ -268,12 +268,13 @@ File=%AppDir%\help\prefs-sounds.png,.\help\prefs-sounds.png,17,0,128
 File=%AppDir%\help\prefs-window.png,.\help\prefs-window.png,17,0,128
 File=%AppDir%\help\sauron.png,.\help\sauron.png,17,0,128
 File=%AppDir%\help\theWholeShebang.jpg,.\help\theWholeShebang.jpg,17,0,128
-File=%AppDir%\help\TOC.hhc,.\help\TOC.hhc,17,0,32
+File=%AppDir%\help\TOC.hhc,.\help\TOC.hhc,17,0,128
 File=%AppDir%\buglist.txt,.\buglist.txt,17,0,128
 File=%AppDir%\CCRSlider.ocx,.\CCRSlider.ocx,17,2,128
 File=%AppDir%\GPL LICENCE.TXT,.\GPL LICENCE.TXT,17,0,128
 File=%AppDir%\prefs.bat,.\prefs.bat,17,0,128
 File=%AppDir%\Mars.exe,.\Mars.exe,17,2,128
+File=%AppDir%\unhide.bat,.\unhide.bat,17,0,128
 
 [SHORTCUTS]
 
