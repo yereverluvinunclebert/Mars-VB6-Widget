@@ -134,16 +134,16 @@ If you are just a casual user of desktop programs then simply download the SETUP
  
 
  
- * Uses the latest version of the RC6 Cairo framework from Olaf Schmidt.
+ * Uses the latest version of the rc5 Cairo framework from Olaf Schmidt.
  
- During development the RC6 components need to be registered. These scripts are 
+ During development the rc5 components need to be registered. These scripts are 
  used to register. Run each by double-clicking on them.
  
-	RegisterRC6inPlace.vbs
-	RegisterRC6WidgetsInPlace.vbs
+	RegisterRC5inPlace.vbs
+	RegisterVBWidgetsInPlace.vbs
  
- During runtime on the users system, the RC6 components are dynamically 
- referenced using modRC6regfree.bas which is compiled into the binary.	
+ During runtime on the users system, the rc5 components are dynamically 
+ referenced using modrc5regfree.bas which is compiled into the binary.	
  
  
  Requires a Mars folder in C:\Users\<user>\AppData\Roaming\ 
@@ -198,7 +198,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	VisualBasic Runtime Objects and Procedures  
 	VisualBasic Objects and Procedures  
 	OLE Automation  
-	vbRichClient6  
+	vbRichClient5 
  
  
  LICENCE AGREEMENTS:
